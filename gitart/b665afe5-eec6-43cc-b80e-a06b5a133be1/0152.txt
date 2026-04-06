@@ -1,0 +1,4 @@
+GitArt
+Design: b665afe5-eec6-43cc-b80e-a06b5a133be1
+Cell: 152
+Date: 2020-05-29T12:00:00Z
